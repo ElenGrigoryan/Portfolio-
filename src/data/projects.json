@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Behance projects",
+    "imageSrc": "projects/pro.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Illustrator", "Photoshop"],
+    "demo": "https://www.behance.net/elengrigoryansun",
+    "source": "#"
+  }
+]
